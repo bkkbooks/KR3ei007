@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ei007_000.yaml, hash: 'sha256:9fd615823494cdd27ea8e1c21fff632dec224e164b2ae64b4bf89132e674844c'}
+  - {seq: 0, filename: KR3ei007_000.yaml, hash: 'sha256:399e9e412b04979721f89b805ee0412181c6b22dab4c68aa1ca39f442374a9ac'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei007_000.markers.yaml, hash: 'sha256:25f85c7cf203b28ce4f02e00437547a70ee869078e65dd693ed1841fb3114ae2'}
+  - {seq: 0, role: markers, filename: assets/KR3ei007_000.markers.yaml, hash: 'sha256:86c23554809c4fe6778445f634909002bd8978658e81f132cf9c80b749a9aad6'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1921,7 +1921,4 @@ table_of_contents:
   label: 足跟痛證治
   type: section
   level: 2
-hash: sha256:f23e5f1df48b5af86293f751ddce96abcc22d5b0a01b66e7910683655e7a85e8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:0e93662a81550d4f5d2e6d583daa0b186984b6b09fa81d87762703c03c8e8df8
