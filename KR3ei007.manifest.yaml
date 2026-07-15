@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ei007/v1
 canonical_location: https://kanripo.org/bkk/KR3ei007/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 醫宗金鑑·婦科心法要訣
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ei007_000.yaml, hash: 'sha256:399e9e412b04979721f89b805ee0412181c6b22dab4c68aa1ca39f442374a9ac'}
+  - {seq: 0, filename: KR3ei007_000.yaml, hash: 'sha256:e4b180adeec45f83b3183ecb865846bd110321bddef22224413d53afc2f03b9a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei007_000.markers.yaml, hash: 'sha256:86c23554809c4fe6778445f634909002bd8978658e81f132cf9c80b749a9aad6'}
+  - {seq: 0, role: markers, filename: assets/KR3ei007_000.markers.yaml, hash: 'sha256:f8b0994714a4b81d7a9db3b03b313caf9ce43b04adf12763cfea7ddbbf984662'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1921,4 +1921,7 @@ table_of_contents:
   label: 足跟痛證治
   type: section
   level: 2
-hash: sha256:0e93662a81550d4f5d2e6d583daa0b186984b6b09fa81d87762703c03c8e8df8
+hash: sha256:dba2fd665f638bb50382599969bb3c828bfec3c8fdb311dde9f2b76186c8a3fb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
